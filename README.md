@@ -52,7 +52,7 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,ts,postgres,mongodb,redis,docker,git,linux,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,ts,postgres,mongodb,docker,git,linux,pytorch,tensorflow" />
 </p>
 
 ---
