@@ -52,7 +52,7 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,ts,postgres,mongodb,docker,git,linux,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,django,fastapi,postgres,mongodb,docker,git,linux,pytorch,scikitlearn,huggingface,tensorflow" />
 </p>
 
 ---
@@ -61,19 +61,19 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ritesh078bct&show_icons=true&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=rit3ssh&show_icons=true&hide_border=true&theme=transparent" 
     height="160"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh078bct&layout=compact&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit3ssh&layout=compact&hide_border=true&theme=transparent" 
     height="160"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Ritesh078bct&hide_border=true&theme=transparent" 
+    src="https://streak-stats.demolab.com?user=rit3ssh&hide_border=true&theme=transparent" 
     height="160"
   />
 </p>
