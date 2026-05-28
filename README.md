@@ -9,9 +9,11 @@
   <a href="mailto:riteshsahani777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/ritesh-sahani-548a4219a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://www.riteshsahani.com.np">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
@@ -35,14 +37,16 @@ I enjoy building systems that combine practical engineering with intelligent use
 
 ## Selected Projects
 
-### SevaBot
+### [SevaBot](https://github.com/rit3ssh/SevaBot-A-RAG-based-nepali-chatbot)
+
 Nepali RAG-based chatbot designed for document-aware information retrieval and contextual response generation.
 
 **Tech:** Python, FastAPI, Vector Search, NLP, LLMs
 
 ---
 
-### Image Colorization via cGANs
+### [Image Colorization via cGANs](https://github.com/rit3ssh/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE)
+
 Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for realistic image colorization.
 
 **Tech:** PyTorch, GANs, Computer Vision
@@ -52,31 +56,22 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,django,fastapi,postgres,mongodb,docker,git,linux,pytorch,scikitlearn,huggingface,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,django,fastapi,postgres,mongodb,docker,git,linux,pytorch,sklearn,tensorflow" />
 </p>
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rit3ssh&show_icons=true&hide_border=true&theme=transparent" 
-    height="160"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit3ssh&layout=compact&hide_border=true&theme=transparent" 
-    height="160"
-  />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rit3ssh&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit3ssh&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p> -->
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rit3ssh&hide_border=true&theme=transparent" 
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=rit3ssh&hide_border=true&theme=transparent" height="165" />
 </p>
+
 
 ---
 
@@ -85,4 +80,3 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
     Focused on building reliable software, learning deeply, and improving continuously.
   </sub>
 </p>
-
