@@ -31,21 +31,6 @@ I enjoy building systems that combine practical engineering with intelligent use
 
 
 
-## Some of My Projects
-
-### [SevaBot](https://github.com/rit3ssh/SevaBot-A-RAG-based-nepali-chatbot)
-
-Nepali RAG-based chatbot designed for document-aware information retrieval and contextual response generation.
-
-**Tech:** Python, FastAPI, Vector Search, NLP, LLMs
-
-
-
-### [Image Colorization via cGANs](https://github.com/rit3ssh/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE)
-
-Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for realistic image colorization.
-
-**Tech:** PyTorch, GANs, Computer Vision
 
 
 
@@ -106,6 +91,23 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
     </td>
   </tr>
 </table>
+
+## Some of My Projects
+
+### [SevaBot](https://github.com/rit3ssh/SevaBot-A-RAG-based-nepali-chatbot)
+
+Nepali RAG-based chatbot designed for document-aware information retrieval and contextual response generation.
+
+**Tech:** Python, FastAPI, Vector Search, NLP, LLMs
+
+
+
+### [Image Colorization via cGANs](https://github.com/rit3ssh/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE)
+
+Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for realistic image colorization.
+
+**Tech:** PyTorch, GANs, Computer Vision
+
 
 ## GitHub Stats
 
