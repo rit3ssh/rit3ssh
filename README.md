@@ -1,10 +1,7 @@
-
-<h1 align="center">Ritesh Sahani</h1>
-
-<p align="center">
+<h2 align="center">&lt; RIT3SH SAHANI /&gt;
+<p align="center" >
   Computer Engineer • Backend Developer • AI/ML Enthusiast
 </p>
-
 <p align="center">
   <a href="mailto:riteshsahani777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -17,25 +14,24 @@
   <a href="https://www.riteshsahani.com.np">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-</p>
+</p></h2>
 
----
 
-## About
 
-Backend-focused developer with strong interest in scalable systems, AI-powered applications, and clean software architecture.
 
-Currently exploring:
-- Retrieval-Augmented Generation (RAG)
-- NLP and LLM applications
-- Backend engineering and distributed systems
-- Production-oriented software design
+
+## About Me
+
+- Computer Engineer
+- Full-Stack web developer
+- AI/ML Engineer ( Love to read papers )
+- Open to Collaborate . Let's build something usefull.
 
 I enjoy building systems that combine practical engineering with intelligent user experiences.
 
----
 
-## Selected Projects
+
+## Some of My Projects
 
 ### [SevaBot](https://github.com/rit3ssh/SevaBot-A-RAG-based-nepali-chatbot)
 
@@ -43,7 +39,7 @@ Nepali RAG-based chatbot designed for document-aware information retrieval and c
 
 **Tech:** Python, FastAPI, Vector Search, NLP, LLMs
 
----
+
 
 ### [Image Colorization via cGANs](https://github.com/rit3ssh/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE)
 
@@ -51,15 +47,65 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 
 **Tech:** PyTorch, GANs, Computer Vision
 
----
 
-## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,django,fastapi,postgres,mongodb,docker,git,linux,pytorch,sklearn,tensorflow" />
-</p>
+<h2 > Skills & Technologies</h2>
 
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" /><br>Django
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" /><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" /><br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" /><br>Linux
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" /><br>Scikit-Learn
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
@@ -73,7 +119,7 @@ Deep learning project using cGANs with a ResNet-18 backed U-Net architecture for
 </p>
 
 
----
+
 
 <p align="center">
   <sub>
