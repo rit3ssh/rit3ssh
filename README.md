@@ -39,6 +39,9 @@ I enjoy building systems that combine practical engineering with intelligent use
 <table align="center">
   <tr>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" /><br>C
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=html" /><br>HTML
     </td>
     <td align="center">
@@ -52,6 +55,9 @@ I enjoy building systems that combine practical engineering with intelligent use
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" /><br>React
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" /><br>nodejs
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" /><br>Python
@@ -88,6 +94,12 @@ I enjoy building systems that combine practical engineering with intelligent use
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" /><br>postman
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" /><br>vscode
     </td>
   </tr>
 </table>
