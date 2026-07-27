@@ -1,6 +1,6 @@
 <h2 align="center">&lt; RIT3SH SAHANI /&gt;
 <p align="center" >
-  Computer Engineer • Backend Developer • AI/ML Enthusiast
+  Computer Engineer • Backend Developer • AI/ML Engineer
 </p>
 <p align="center">
   <a href="mailto:riteshsahani777@gmail.com">
